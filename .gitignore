@@ -1,4 +1,4 @@
-./main.spec
 ./build
 ./dist
 ./venv
+/main.spec
